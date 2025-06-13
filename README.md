@@ -6,8 +6,8 @@ I did not use any queries to clean for duplicates, blanks/nulls and trimms as th
 
 ## Files 
 
-2015_to_2018_CA_enrollments.csv - Dual enrollments data
-unemployedchange_15_18.csv - Unemployment Change Data
+- 2015_to_2018_CA_enrollments.csv - Dual enrollments data
+- unemployedchange_15_18.csv - Unemployment Change Data
 
 ## Tools Used
 - BigQuery for SQL execution
