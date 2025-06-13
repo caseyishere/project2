@@ -43,6 +43,10 @@ In this query I answer the second question. ACS stands for American Community Su
 
 The results showcase the unemployment change and the new number of enrollees.
 
+## Tableau Results
+<img width="1440" alt="County_name_filter" src="https://github.com/user-attachments/assets/faf39d33-765f-49ea-842c-a96c268272f2" />
+
+
 ## Conclusion
 
 Kern country had the highest increase in dual-eligible enrollments. With an increase in employed individuals, an increase in dual enrollments occur. 
