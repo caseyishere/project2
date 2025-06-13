@@ -53,7 +53,7 @@ To filter a county, click on a county name under the county name filter on the r
 
 Kern country had the highest increase in dual-eligible enrollments. With an increase in employed individuals, an increase in dual enrollments occur. 
 
-To look at my visuals in Tableau please go to link : https://public.tableau.com/app/profile/casey.lemos/viz/MedicalandMedicaidDifferences/MedicalandMedicaidDifferences
+To look at my visuals in Tableau click on this link : https://public.tableau.com/app/profile/casey.lemos/viz/MedicalandMedicaidDifferences/MedicalandMedicaidDifferences
 
 
 
