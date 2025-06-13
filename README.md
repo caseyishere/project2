@@ -47,5 +47,7 @@ The results showcase the unemployment change and the new number of enrollees.
 
 Kern country had the highest increase in dual-eligible enrollments. With an increase in employed individuals, an increase in dual enrollments occur. 
 
+To look at my visuals in Tableau please go to link : https://public.tableau.com/app/profile/casey.lemos/viz/MedicalandMedicaidDifferences/MedicalandMedicaidDifferences
+
 
 
