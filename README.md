@@ -39,4 +39,9 @@ The second query :
 <img width="973" alt="unemployed change sqql" src="https://github.com/user-attachments/assets/d404616a-b50c-46fb-a2e5-c398cc0ebc4b" />
 In this query I answer the second question. ACS stands for American Community Survey. 
 
+<img width="993" alt="Unemployment_results" src="https://github.com/user-attachments/assets/7e6bda45-1b12-4342-bffc-2a665f456a0c" />
+
+The results showcase the unemployment change and the new number of enrollees.
+
+
 
