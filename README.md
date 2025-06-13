@@ -43,5 +43,9 @@ In this query I answer the second question. ACS stands for American Community Su
 
 The results showcase the unemployment change and the new number of enrollees.
 
+## Conclusion
+
+Kern country had the highest increase in dual-eligible enrollments. 
+
 
 
