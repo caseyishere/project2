@@ -46,6 +46,8 @@ The results showcase the unemployment change and the new number of enrollees.
 ## Tableau Results
 <img width="1440" alt="County_name_filter" src="https://github.com/user-attachments/assets/faf39d33-765f-49ea-842c-a96c268272f2" />
 
+To filter a county, click on a county name under the county name filter on the right side of the page. 
+
 
 ## Conclusion
 
