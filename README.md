@@ -30,6 +30,12 @@ Find the counties in California which have experienced the largest increase of d
 
 This query calculates the difference in dual enrollments from 12/01/18 and 12/01/15. The public totals is the number of total enrollees across all dual eligible programs. The FIPS is just the state code. 
 
-These where the results: 
+These where the results. Kern county had the biddference difference in dual enrollment with over 2,000 new enrollees. 
 <img width="1042" alt="Dual_18_15_results" src="https://github.com/user-attachments/assets/b3a3fc25-ff9a-43d6-8330-5b7f0128a5fd" />
+
+The second query : 
+<img width="985" alt="uneployed change sql " src="https://github.com/user-attachments/assets/1da6b072-dc7e-4dd2-9b93-b9007cbc62f4" />
+<img width="981" alt="unemplyed changed sqll" src="https://github.com/user-attachments/assets/c2b02176-4815-4110-87c5-460d78a794bb" />
+<img width="973" alt="unemployed change sqql" src="https://github.com/user-attachments/assets/d404616a-b50c-46fb-a2e5-c398cc0ebc4b" />
+
 
