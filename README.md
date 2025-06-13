@@ -45,7 +45,7 @@ The results showcase the unemployment change and the new number of enrollees.
 
 ## Conclusion
 
-Kern country had the highest increase in dual-eligible enrollments. 
+Kern country had the highest increase in dual-eligible enrollments. With an increase in employed individuals, an increase in dual enrollments occur. 
 
 
 
