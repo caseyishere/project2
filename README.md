@@ -1,6 +1,6 @@
 # Medical and Medicaid DIfferences from 2015-2018 in California
 
-This public data set was created by the Centers for Medicare &amp; Medicaid Services that summarizes counts of enrollees who are dually-eligible for both Medicare and Medicaid program, including those in Medicare Savings Programs. A query was created to visualize the correlation between dual eligible and unemployed individuals between 2015 and 2018.
+This public data set was created by the Centers for Medicare &amp; Medicaid Services that summarizes counts of enrollees who are dually-eligible for both Medicare and Medicaid program, including those in Medicare Savings Programs. A query was created to visualize the correlation between dual eligible and unemployed individuals between 2015 and 2018. I chose to analyze this data set because it is important to understand the relationship between economic indicators like unemployment and healthcare program enrollment for vulnerable populations as we can inform policy decisions regarding social safety nets and healthcare access.
 
 I did not use any queries to clean for duplicates, blanks/nulls and trimms as this data is already clean. I just want to showcase how I can visualize healthcare data in California and make a correlation about it.  
 
