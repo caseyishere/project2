@@ -41,7 +41,7 @@ This query answers the second question. ACS stands for American Community Survey
 
 <img width="993" alt="Unemployment_results" src="https://github.com/user-attachments/assets/7e6bda45-1b12-4342-bffc-2a665f456a0c" />
 
-The results showcase the unemployment change and the new number of enrollees.
+The results showcase the unemployment change and the increase in new enrollees that occured between 2015 and 2018.
 
 ## Tableau Dashboard
 
