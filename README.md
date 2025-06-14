@@ -37,7 +37,7 @@ The second query :
 <img width="985" alt="uneployed change sql " src="https://github.com/user-attachments/assets/1da6b072-dc7e-4dd2-9b93-b9007cbc62f4" />
 <img width="981" alt="unemplyed changed sqll" src="https://github.com/user-attachments/assets/c2b02176-4815-4110-87c5-460d78a794bb" />
 <img width="973" alt="unemployed change sqql" src="https://github.com/user-attachments/assets/d404616a-b50c-46fb-a2e5-c398cc0ebc4b" />
-This query answers the second question. ACS stands for American Community Survey. 
+This query answers the second question. The unemployed_change and duals_change CTEs(Common Table Expression) are calculating u_change and total_duals_diff. ACS stands for American Community Survey. 
 
 <img width="993" alt="Unemployment_results" src="https://github.com/user-attachments/assets/7e6bda45-1b12-4342-bffc-2a665f456a0c" />
 
