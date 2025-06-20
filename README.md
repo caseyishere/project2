@@ -17,11 +17,11 @@ I did not use any queries to clean for duplicates, blanks/nulls and trimms as th
 [Casey Lemos](https://github.com/caseyishere)
 
 ### Questions to answer
-1. In what counties in California has the number of dual-eligible individuals increased the most from 2015 to 2018?
-2. How does the change in California for unemployed individuals from 2015-2018 correlate with the change in number of duals?
+1. In what counties in California have the number of dual-eligible individuals increased the most from 2015 to 2018?
+2. To what extent does the change in California's unemployed population correlate with the change in its dual-eligible population between 2015 and 2018?
 
 ### Objective
-Find the counties in California which have experienced the largest increase of dual enrollment households and compare how county-level dual enrollments have changed relative to unemployment.
+First, identify the counties in California that experienced the largest increase in dual enrollment households. Then, compare how these county-level dual enrollments changed relative to unemployment over the same period.
 
 ### BigQuery SQL
 
